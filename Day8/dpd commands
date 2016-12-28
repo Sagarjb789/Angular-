@@ -1,0 +1,9 @@
+Commands :-
+1. dpd create products
+2. dpd -p 5500 products\app.dpd
+3. >dashboard
+
+
+dpd -p 2403 deployd\app.dpd
+
+dashboard
